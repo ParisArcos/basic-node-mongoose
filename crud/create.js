@@ -1,5 +1,5 @@
 /*
- **En este archivo estableceremos como guardar datos en la BDD mediante asyn-await
+ **En este archivo estableceremos como guardar datos en la BDD mediante async-await
  */
 //todo requerimos la conexion
 require("../connection");

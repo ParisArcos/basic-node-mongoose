@@ -1,5 +1,5 @@
 /*
- **En este archivo estableceremos como consultar la BDD mediante asyn-await
+ **En este archivo estableceremos como consultar la BDD mediante async-await
  */
 //todo requerimos la conexion
 require("../connection");
